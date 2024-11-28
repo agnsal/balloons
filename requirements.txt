@@ -1,0 +1,5 @@
+PyYAML==6.0.2
+pygame==2.6.1
+pygame-menu==4.4.8
+config==0.5.1
+sympy==1.13.3

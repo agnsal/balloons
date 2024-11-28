@@ -1,5 +1,19 @@
 # balloons
-A Pygame indie game.
+A Pygame shooting indie game.
+
+## Credits
+### Assets
+#### Graphics
+- https://qookie-games.itch.io/balloons
+- https://donut-studio.itch.io/crosshairs
+- https://nectanebo.itch.io/menu-buttons
+
+#### Audio
+- https://bit-by-bit-sound.itch.io/16-bit-starter-pack
+- https://jdwasabi.itch.io/8-bit-16-bit-sound-effects-pack
+- https://pixabay.com/sound-effects/search/birds-chirping/
+- https://cdansantana.itch.io/hgsfx
+- https://f8studios.itch.io/snakes-second-authentic-gun-sounds-pack
 
 ## Contacts
 
@@ -8,7 +22,6 @@ Agnese Salutari – agneses92@hotmail.it
 Distributed under the Apache License 2.0. See ``LICENSE`` for more information.
 
 [https://github.com/agnsal](https://github.com/agnsal)
-
 
 ## Contributing
 
