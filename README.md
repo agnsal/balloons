@@ -1,5 +1,5 @@
 # balloons
-A Pygame shooting indie game.
+A Python3 indie shooting game developed with Pygame (tested on Python 3.11 and 3.12).
 
 ## Credits
 ### Assets
@@ -17,7 +17,7 @@ A Pygame shooting indie game.
 
 ## Contacts
 
-Agnese Salutari – agneses92@hotmail.it
+Agnese Salutari – agneses92@gmail.com, agneses92@hotmail.it
 
 Distributed under the Apache License 2.0. See ``LICENSE`` for more information.
 
