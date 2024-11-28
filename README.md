@@ -1,6 +1,8 @@
 # balloons
 A Python3 indie shooting game developed with Pygame (tested on Python 3.11 and 3.12).
 
+New features coming soon...
+
 ## Credits
 ### Assets
 #### Graphics
